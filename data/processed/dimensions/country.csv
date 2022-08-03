@@ -1,0 +1,10 @@
+country_key,name,code,capital,continent,region,currency,income_group,gdp,area,population,birth_rate,death_rate
+1,Argentina,ARG,Buenos Aires,South America,Latin America & Caribbean,ARS,Upper middle income,389288056265.325,2780400,45376763,16.833,7.604
+2,Bangladesh,BGD,Dhaka,Asia,South Asia,BDT,Lower middle income,323056957972.312,148460,164689383,17.868,5.526
+3,Brazil,BRA,Brasília,South America,Latin America & Caribbean,BRL,Upper middle income,1444733258971.65,8515767,212559409,13.703,6.531
+4,Canada,CAN,Ottawa,North America,North America,CAD,High income,1645423407568.36,9984670,38005238,9.9,7.6
+5,Colombia,COL,Bogotá,South America,Latin America & Caribbean,COP,Upper middle income,271437596293.843,1141748,50882884,14.655,5.63
+6,India,IND,New Delhi,Asia,South Asia,INR,Lower middle income,2660245248867.63,3287263,1380004385,17.644,7.265
+7,Mexico,MEX,Mexico City,North America,Latin America & Caribbean,MXN,Upper middle income,1073915880822.5,1972550,128932753,17.297,6.082
+8,Pakistan,PAK,Islamabad,Asia,South Asia,PKR,Lower middle income,262610002938.509,881913,220892331,27.841,6.893
+9,United States,USA,Washington D.C.,North America,North America,USD,High income,20953030000000.0,9833520,329484123,11.4,8.7
